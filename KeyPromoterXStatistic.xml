@@ -73,6 +73,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Sort Lines">
+        <Item>
+          <IdeaActionID>linessorter.sort</IdeaActionID>
+          <ShortCut>'Alt+Shift+L'</ShortCut>
+          <Description>Sort Lines</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'automation'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -110,7 +118,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
