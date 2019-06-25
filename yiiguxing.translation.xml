@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="info extractor object" />
+      <item value="is amend" />
+      <item value="complete si dispatch" />
       <item value="auto reply" />
       <item value="extract bk from attachment" />
       <item value="entities" />
@@ -10,8 +13,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="11" />
-        <entry key="CHINESE_TRADITIONAL" value="7" />
+        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE_TRADITIONAL" value="13" />
       </map>
     </option>
   </component>
