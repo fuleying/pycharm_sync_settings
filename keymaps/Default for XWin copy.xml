@@ -1,5 +1,12 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="$ChooseTranslatorAction" />
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
   <action id="BLACKReformatCode">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -19,6 +26,14 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SonarLint.AnalyzeFiles" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="com.dubreuia.core.action.ShortcutAction" />
   <action id="context.load" />
+  <action id="hg4idea.QPushAction" />
+  <action id="kite.docsAtCaret">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="tasks.switch" />
 </keymap>
