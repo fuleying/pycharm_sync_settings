@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="email object" />
       <item value="remove" />
       <item value="ACTIVE_TASK, ADDRESS_PATTERN, BL_BUZZWORD, BL_PATTERN, BL_STATUS, COMMON_DOMAIN, COMPANY_KEY, DOCUMENT_STATUS, KEY_ACTION_WORDS, PIC_PATTERN, SIGNATURE_BUZZWORD, SSI_OMSB_MAILBOX_NON_TARGET, SSI_OMSB_MAILBOX_TARGET," />
       <item value="info extractor object" />
@@ -15,8 +16,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="16" />
-        <entry key="CHINESE_TRADITIONAL" value="13" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE_TRADITIONAL" value="14" />
       </map>
     </option>
   </component>
