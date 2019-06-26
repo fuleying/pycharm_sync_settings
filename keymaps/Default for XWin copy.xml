@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="$ChooseTranslatorAction" />
   <action id="BLACKReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="alt l" />
@@ -7,9 +8,18 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="ctrl alt released left" />
   </action>
+  <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="ctrl alt released right" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SonarLint.AnalyzeFiles" />
+  <action id="com.dubreuia.core.action.ShortcutAction" />
   <action id="context.load" />
 </keymap>

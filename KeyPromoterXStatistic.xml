@@ -57,6 +57,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'Ctrl+S'</ShortCut>
+          <Description>Save All</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
