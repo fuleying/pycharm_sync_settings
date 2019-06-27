@@ -235,6 +235,14 @@
           <Count>45</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Highlight Usages in File">
+        <Item>
+          <IdeaActionID>HighlightUsagesInFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F7'</ShortCut>
+          <Description>Highlight Usages in File</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
