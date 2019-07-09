@@ -7,6 +7,9 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="BLACKReformatCode">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -25,9 +28,6 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="ctrl alt released right" />
-  </action>
-  <action id="GitToolBox.ShowInlineBlame">
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
