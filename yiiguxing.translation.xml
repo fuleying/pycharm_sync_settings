@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Installations" />
+      <item value="linting" />
       <item value="ocr page pipeline" />
       <item value="done" />
       <item value="path" />
@@ -18,9 +20,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="21" />
         <entry key="CHINESE_TRADITIONAL" value="15" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
