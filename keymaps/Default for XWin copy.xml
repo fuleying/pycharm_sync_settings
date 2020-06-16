@@ -59,4 +59,5 @@
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
   <action id="tasks.switch" />
+  <action id="texify.ShowTikzPreview" />
 </keymap>
