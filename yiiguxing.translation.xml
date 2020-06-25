@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="covariates" />
       <item value="tenacity" />
       <item value="unchangement" />
       <item value="utils graph" />
@@ -28,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="40" />
         <entry key="CHINESE_TRADITIONAL" value="15" />
         <entry key="ROMANIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
