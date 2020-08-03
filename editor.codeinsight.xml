@@ -1,13 +1,4 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="PARAMETER_INFO_DELAY" value="500" />
-    <option name="JAVADOC_INFO_DELAY" value="500" />
-    <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
-  </component>
   <component name="MarkdownFoldingSettings">
     <option name="COLLAPSE_IMAGES" value="false" />
     <option name="COLLAPSE_EMBEDDED_IMAGES" value="false" />
