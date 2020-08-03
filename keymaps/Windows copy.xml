@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="BLACKReformatCode">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -10,6 +13,9 @@
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="GotoTest" />
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
