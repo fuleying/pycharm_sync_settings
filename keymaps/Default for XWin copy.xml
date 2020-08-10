@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+<keymap version="1" name="Default for XWin copy" parent="Default">
   <action id="$ChooseTranslatorAction" />
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
@@ -24,25 +24,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="DBNavigator.Actions.SourceEditor.Save" />
-  <action id="EditorBackSpace">
-    <keyboard-shortcut first-keystroke="back_space" />
-  </action>
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-  </action>
-  <action id="EditorEnter">
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="left" />
-  </action>
-  <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="right" />
-  </action>
   <action id="EditorSelectWord" />
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="ctrl alt released right" />
@@ -65,9 +47,6 @@
   </action>
   <action id="SaveDocument">
     <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="SonarLint.AnalyzeFiles" />
   <action id="Terminal.OpenInTerminal">
