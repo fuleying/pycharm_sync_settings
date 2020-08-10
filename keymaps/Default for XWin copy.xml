@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for XWin copy" parent="Default">
+<keymap version="1" name="Default for XWin copy" parent="$default">
   <action id="$ChooseTranslatorAction" />
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
