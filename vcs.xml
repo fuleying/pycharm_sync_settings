@@ -1,12 +1,5 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://ardincubation.visualstudio.com" />
-          <option name="userName" value="lambert.fu" />
-        </UrlAndUserName>
-      </list>
-    </option>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
